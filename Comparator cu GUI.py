@@ -1,6 +1,9 @@
 import random
 import tkinter as tk
 
+#Choose number
+#Random number gets deployed
+#Find out which player got closer to the random number
 def calcul(player1,player2):
     NumarAleator = str(random.randrange(10, 99))
 
